@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ProyectoFinal-Painequeo/static/css/main.d9cf5590.css",
+    "main.js": "/ProyectoFinal-Painequeo/static/js/main.96f24b77.js",
+    "index.html": "/ProyectoFinal-Painequeo/index.html",
+    "main.d9cf5590.css.map": "/ProyectoFinal-Painequeo/static/css/main.d9cf5590.css.map",
+    "main.96f24b77.js.map": "/ProyectoFinal-Painequeo/static/js/main.96f24b77.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9cf5590.css",
+    "static/js/main.96f24b77.js"
+  ]
+}
